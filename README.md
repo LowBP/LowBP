@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranav venkitesan</h1>
 <h3 align="center">Passionate Front-end Developer with 6 years of experience in designing and developing highly scalable web applications using emberJS/ reactJS framework.</h3>
 
+<br>
+   <div align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowbp&label=Profile%20views&color=0e75b6&style=flat" alt="lowbp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowbp" alt="lowbp" /></a> </p>
@@ -10,6 +14,8 @@
 - 🔭 I’m currently working on [ember-elements](https://github.com/ember-elements/ember-elements)
 
 - 🌱 I’m currently learning **German, vueJs**
+
+- 🏠 I'm currently living in 🇩🇪
 
 - 💬 Ask me about **emberjs, reactjs, opensource**
 
@@ -32,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lowbp&show_icons=true&locale=en&layout=compact" alt="lowbp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowbp&show_icons=true&locale=en" alt="lowbp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lowbp&show_icons=true&locale=en" alt="lowbp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowbp&" alt="lowbp" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lowbp&" alt="lowbp" /></p>
