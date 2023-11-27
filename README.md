@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Pranav venkitesan](https://lowbp.github.io/MyProfile/)</h1>
-[Check them out now](https://your-link-here.com)
+<h1 align="center">Hi 👋, I'm Pranav venkitesan</h1>
+<h4 align="center">Website Link: https://lowbp.github.io/MyProfile/</h2>
 <h3 align="center">Passionate Front-end Developer with 6 years of experience in designing and developing highly scalable web applications using emberJS/ reactJS framework.</h3>
 
 <br>
